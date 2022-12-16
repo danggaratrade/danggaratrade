@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danggaratrade
-- 👀 I’m interested in code nad blockchain tech
+- 👀 I’m interested in code and blockchain tech
 - 🌱 I’m currently learning a lot about blockchain
 - 💞️ I’m looking to collaborate with you guys
 - 📫 contact me at danggaratrade@gmail.com
